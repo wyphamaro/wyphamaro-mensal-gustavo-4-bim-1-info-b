@@ -4,6 +4,7 @@ const sendBtn = document.getElementById('send-btn');
 
 
 const botResponses = {
+    "❤️": "O coração é um órgão muscular responsável por bombear o sangue através do sistema circulatório.",
     "coração": "O coração é um órgão muscular responsável por bombear o sangue através do sistema circulatório.",
     "osso": "Os principais ossos incluem o crânio, a coluna vertebral, as costelas e os ossos dos membros.",
     "fêmur": "O fêmur é o osso mais longo do corpo humano e está localizado na coxa.",
